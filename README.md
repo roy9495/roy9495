@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roy9495
-- 👀 I’m interested in books,music,ciding.
+- 👀 I’m interested in books,music,coding.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on life.
 - 📫 How to reach me royzen9495@gmail.com
