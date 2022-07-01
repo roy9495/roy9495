@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tathagata .
-- 👀 I’m interested in books,music,coding.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in books, music, coding , movies, web-series, people (not in that order).
+- 🌱 I’m currently learning Javascript, DevOps, Python, SQL.
 - 💞️ I’m looking to collaborate on Javascript , DevOps Projects.
 - 📫 How to reach me tathagata.129031@gmail.com
 
