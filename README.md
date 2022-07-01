@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @roy9495
+- 👋 Hi, I’m Tathagata .
 - 👀 I’m interested in books,music,coding.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Javascript , DevOps Projects.
-- 📫 How to reach me royzen9495@gmail.com
+- 📫 How to reach me tathagata.129031@gmail.com
 
 <!---
 roy9495/roy9495 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
