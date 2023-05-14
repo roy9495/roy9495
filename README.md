@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=roy9495&icon=5&color=3)](https://visitcount.itsvg.in)
 # 💫 About Me:
 👋 Hi, I’m Tathagata .<br> 👀 I'm interested in books 📚, music 🎵, coding 💻, movies 🎥, web-series 📺, and people 👨‍👩‍👧‍👦 (not in that order).<br> 🌱 I’m currently learning Javascript, DevOps, Python, SQL.<br> 💞️ I’m looking to collaborate on Javascript , DevOps Projects.<br>
 
@@ -25,10 +26,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=roy9495&limit=5&theme=darkhub&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://github.com/roy9495/public-images/blob/main/20230514_212834.jpg" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=roy9495&icon=5&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
