@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Tathagata .<br> 👀 I'm interested in books 📚, music 🎵, coding 💻, movies 🎥, web-series 📺, and people 👨‍👩‍👧‍👦 (not in that order).<br> 🌱 I’m currently learning Javascript, DevOps, Python, SQL.<br> 💞️ I’m looking to collaborate on Javascript , DevOps Projects.<br>
-![Alt Text](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
+<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjcyMDY3OThkM2U2ZjkwMzJlZWY4ZGQzMjNhNGY5ZTljNzkwZmYwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fTI9mBoWLef8k/giphy.gif" width="512px" />
 
 
 ## 🌐 Socials:
@@ -29,7 +30,7 @@
 
 
 ### 😂 Random Dev Meme
-<img src="https://github.com/roy9495/public-images/blob/main/20230514_212834.jpg" width="512px"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODI0ZWZiMTU5ZDVhMzM3NjJmZjc1NWFjMTUzOTgwMGRiYTc2ZWY4NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/o0vwzuFwCGAFO/giphy.gif" width="512px"/>
 
 ---
 
