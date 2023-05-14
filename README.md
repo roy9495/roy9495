@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Tathagata .<br> 👀 I'm interested in books 📚, music 🎵, coding 💻, movies 🎥, web-series 📺, and people 👨‍👩‍👧‍👦 (not in that order).<br> 🌱 I’m currently learning Javascript, DevOps, Python, SQL.<br> 💞️ I’m looking to collaborate on Javascript , DevOps Projects.<br>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
 
 
 ## 🌐 Socials:
