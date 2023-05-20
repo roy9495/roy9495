@@ -25,9 +25,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=roy9495&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Royzen9495Roy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
@@ -36,7 +33,7 @@
 
 
 ### 😂 Random Dev Meme
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODI0ZWZiMTU5ZDVhMzM3NjJmZjc1NWFjMTUzOTgwMGRiYTc2ZWY4NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/o0vwzuFwCGAFO/giphy.gif" width="512px"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODI0ZWZiMTU5ZDVhMzM3NjJmZjc1NWFjMTUzOTgwMGRiYTc2ZWY4NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/o0vwzuFwCGAFO/giphy.gif" width="300px"/>
 
 ---
 
