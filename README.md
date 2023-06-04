@@ -1,14 +1,8 @@
 <p align="center">
   <b>👋 Hi, I’m Tathagata .</b><br><br> 👀 I'm interested in books 📚, music 🎵, coding 💻, movies 🎥, web-series 📺, and people 👨‍👩‍👧‍👦    (not in that order).<br> 🌱 I’m currently learning Javascript, DevOps, Python, SQL.<br> 💞️ I’m looking to collaborate on Javascript ,  DevOps Projects.<br>
    <br>
-   <img      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjcyMDY3OThkM2U2ZjkwMzJlZWY4ZGQzMjNhNGY5ZTljNzkwZmYwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fTI9mBoWLef8k/giphy.gif" width="512px" />
-</p>
-
-
-
-  ## 🌐 Socials:
-
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tathagata_9495) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Royzen9495Roy) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Roy-Zen) 
+   <img      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjcyMDY3OThkM2U2ZjkwMzJlZWY4ZGQzMjNhNGY5ZTljNzkwZmYwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fTI9mBoWLef8k/giphy.gif" width="512px" /
+        </p>
  
 
 
