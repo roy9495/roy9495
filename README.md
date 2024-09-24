@@ -48,8 +48,8 @@ Here's a glimpse of the technologies I work with:
 
 ## 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=roy9495&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true"   alt="Tathagata's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=roy9495&theme=vision-friendly-dark&hide_border=false"  alt="Tathagata's GitHub Streak Stats" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=roy9495&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true"   alt="Tathagata's GitHub Stats" />
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=roy9495&theme=vision-friendly-dark&hide_border=false"  alt="Tathagata's GitHub Streak Stats" />
 </div>
 
 ---
