@@ -48,22 +48,15 @@ Here's a glimpse of the technologies I work with:
 
 ## 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=roy9495&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" alt="Tathagata's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=roy9495&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true"  width="100%" alt="Tathagata's GitHub Stats" />
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=roy9495&theme=vision-friendly-dark&hide_border=false" alt="Tathagata's GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=roy9495&theme=vision-friendly-dark&hide_border=false" width="100%" alt="Tathagata's GitHub Streak Stats" />
 </div>
 
 ---
 
 ### ✍️ Inspirational Quote
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-
-### 😂 Random Developer Meme
-<p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODI0ZWZiMTU5ZDVhMzM3NjJmZjc1NWFjMTUzOTgwMGRiYTc2ZWY4NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/o0vwzuFwCGAFO/giphy.gif" width="300px" alt="Funny Developer Meme"/>
-</p>
 
 
 ---
