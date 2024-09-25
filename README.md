@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tathagata 👋</h1>
 
 <p align="center">
-    I'm passionate about <strong>books 📚</strong>, <strong>music 🎵</strong>, <strong>coding 💻</strong>, <strong>movies 🎥</strong>, <strong>web-series 📺</strong>, and connecting with <strong>people 👨‍👩‍👧‍👦</strong> (not necessarily in that order).
+    I'm passionate about <strong>books 📚</strong>, <strong>music 🎵</strong>, <strong>coding 💻</strong>, <strong>movies 🎥</strong>, <strong>web-series 📺</strong>, and connecting with <strong>people 👨‍👩‍👧‍👦</strong>.
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <img width="90%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd6cGk1cHF2a2Jtb2g5YmR5Y2pkcHJtMzFjOG90Zmxmc3A1aHl2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" width="512px" alt="Coding Gif"/>
+    <img width="80%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd6cGk1cHF2a2Jtb2g5YmR5Y2pkcHJtMzFjOG90Zmxmc3A1aHl2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" width="512px" alt="Coding Gif"/>
 </p>
 
 ---
