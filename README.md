@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjcyMDY3OThkM2U2ZjkwMzJlZWY4ZGQzMjNhNGY5ZTljNzkwZmYwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fTI9mBoWLef8k/giphy.gif" width="512px" alt="Coding Gif"/>
+    <img width="90%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjcyMDY3OThkM2U2ZjkwMzJlZWY4ZGQzMjNhNGY5ZTljNzkwZmYwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fTI9mBoWLef8k/giphy.gif" width="512px" alt="Coding Gif"/>
 </p>
 
 ---
