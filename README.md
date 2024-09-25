@@ -1,64 +1,85 @@
-<h1 align="center">Hi, I'm Tathagata 👋</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=roy9495.roy9495" />
 
-<p align="center">
-    I'm passionate about <strong>books 📚</strong>, <strong>music 🎵</strong>, <strong>coding 💻</strong>, <strong>movies 🎥</strong>, <strong>web-series 📺</strong>, and connecting with <strong>people 👨‍👩‍👧‍👦</strong>.
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tathagata+Roy!;" />
+</h1>
 
-<p align="center">
-    🌱 Currently honing my skills in <strong>JavaScript</strong>, <strong>DevOps</strong>, <strong>Python</strong>, and <strong>SQL</strong>. <br>
-    💞️ Open to collaborating on exciting <strong>JavaScript</strong> and <strong>DevOps</strong> projects.
-</p>
+<h3 align="center">A passionate security analyst from India </h3>
 
-<p align="center">
-    <img width="80%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd6cGk1cHF2a2Jtb2g5YmR5Y2pkcHJtMzFjOG90Zmxmc3A1aHl2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" width="512px" alt="Coding Gif"/>
-</p>
+<br/>
 
----
-
-## 💻 Tech Stack
-Here's a glimpse of the technologies I work with:
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
 <div align="center">
-    <img style="height: 200px;" width="45%" src="https://github-readme-stats.vercel.app/api?username=roy9495&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true"   alt="Tathagata's GitHub Stats" />
-    <img style="height: 200px;" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=roy9495&theme=vision-friendly-dark&hide_border=false"  alt="Tathagata's GitHub Streak Stats" />
+ 
+ 🔭 I’m currently working on **a crytography app**
+ 
+ 🌱 I’m currently learning **Docker, SIEM, AWS, Python, IDS**
+
+⚡ Fun fact **The first computer virus was created in 1986**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:tathagata.129031@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/roy9495/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://portfolio-roy9495.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
----
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,nextjs,mysql,docker" /><br>
+</div>
 
-### ✍️ Inspirational Quote
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<br/>
+<hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/roy9495/roy9495/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
----
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=roy9495&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=roy9495&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy9495&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+<h2 align="center">✍️ Inspirational Quote</h2>
+<br/>
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /><br>
+</div>
+
+<hr/>
+
+<br/>
+
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting+:);" />
+</h2>
+
+<br/>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
