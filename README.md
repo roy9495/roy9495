@@ -26,7 +26,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://portfolio-roy9495.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://threatradar.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Blog-4A90E2?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.redbubble.com/people/royzen9495/shop" target="_blank">
+     <img src="https://img.shields.io/badge/Shop-8BC34A?style=for-the-badge&logo=shopify&logoColor=white" target="_blank" />
   </a>
 </div>
 
