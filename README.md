@@ -76,7 +76,7 @@
 <h2 align="center">✍️ Inspirational Quote</h2>
 <br/>
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /><br>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true" /><br>
 </div>
 
 <br/>
