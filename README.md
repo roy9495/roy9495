@@ -63,6 +63,7 @@
 <div align=center>
   <img style="height: 200px;" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy9495&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="streak stats"/>
   <img style="height: 200px;" width=390 src="https://github-readme-stats.vercel.app/api?username=roy9495&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img style="height: 200px;" width=390 src="https://streak-stats.demolab.com/?user=roy9495" alt="streak stats" />
 </div>
 
 <br/><br/>
